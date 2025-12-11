@@ -53,13 +53,6 @@ Formulated and tested three main hypotheses:
 
 ---
 
-## Deliverables
-- **Final_Report.pdf** – comprehensive analysis and discussion of findings  
-- **EDA_and_Analysis.R** – all R scripts used for cleaning, analysis, and visualization  
-- **Presentation.pptx** – slide deck summarizing results for a non-technical audience  
-
----
-
 ## Tools & Libraries
 - **R** (tidyverse, ggplot2, dplyr, stats)
 - **Excel** for initial data inspection and cleaning
