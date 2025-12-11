@@ -1,3 +1,5 @@
+Hypothesis Testing in R: Independent and Paired t-Tests Across Biological and Behavioral Data
+
 This project focuses on hypothesis testing using t-tests in R to analyze two datasets.
 
 Part 1 examines the bodyweights of male and female cats using the cats dataset from the MASS package. A two-sample t-test, including Welch’s test and a one-sided t-test, was performed to determine if male cats have a higher average bodyweight than female cats. The results, supported by boxplots and summary statistics, indicate a statistically significant difference in bodyweight, with males generally larger and showing a wider range of weights.
