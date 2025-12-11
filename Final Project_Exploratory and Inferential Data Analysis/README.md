@@ -1,4 +1,4 @@
-# ALY 6010 Final Project – Exploratory and Inferential Data Analysis
+# ALY 6010 Final Project – Exploratory and Inferential Data Analysis: NCAA Basketball Ranking Analytics
 
 ## Overview
 This project explores relationships within NCAA Division I college basketball rankings from the 2020–2021 season through **exploratory data analysis (EDA)**, **hypothesis testing**, and **regression modeling**.  
@@ -71,11 +71,3 @@ Formulated and tested three main hypotheses:
 - Future analyses could compare additional ranking systems and include multiple seasons to assess long-term consistency and ranking volatility.  
 - Adding more advanced regression models (multivariate, logistic) could help predict which early-season rankings best forecast postseason outcomes.  
 - Integrating contextual performance data (win-loss records, strength of schedule) would improve model precision.  
-
----
-
-## Author
-**Sean McLean**  
-Northeastern University – *ALY 6010: Statistics for Business and Analytics*  
-📧 sean.mclean1617@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/seanmclean13)
